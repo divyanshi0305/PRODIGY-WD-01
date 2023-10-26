@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@200&family=Raleway:wght@100&family=Roboto+Slab:wght@700&family=Roboto:wght@700&family=Schibsted+Grotesk&display=swap");
+
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 80vw;
+}
+
+.topleft {
+  width: 50%;
+ padding: 12px;
+.topright {
+  width: 50%;
+  height: 50vh;
+}
+.section1 {
+    max-height: 100vh;
+}
+
+.logo {
+  font-size: 1.8rem;
+}
+
+
+
+.img-width {
+    width: 150px;
+  }
+  
+  .section1 h1{
+    font-size: 30rem;
+  
+    
+  }
+  .section2{
+    padding-left: 23px;
+    padding-right: 23px;
+  }
+  
+  
